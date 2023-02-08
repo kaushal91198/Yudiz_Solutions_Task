@@ -24,7 +24,7 @@
     ```env
    PORT = 5000
    NODE_ENV= development
-   MONGO_URL = 'mongodb://localhost/ecommerce'
+   MONGO_URL = mongodb://localhost:27017 
    JWT_KEY = YOUR KEY
     ```
 3. <b>deploy this project</b> on your local server by using this command
